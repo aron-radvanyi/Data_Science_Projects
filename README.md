@@ -7,7 +7,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-This repository contains my personal Data science projects which helped me to get experience using Python and relevant data science and machine learning libraries such as pandas, numpy, seaborn, matplotlib, sklearn, tenserflow, keras etc. 
+This repository contains my personal Data science projects which helped me to get experience using Python and relevant data science and machine learning libraries such as Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, Keras etc. 
 
 ## 1 Bike-Sharing Prediction Project
 ### 1.1 Background 
